@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Keshav 👋
 
-<!--
-**keshav-builds/keshav-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Web Developer** passionate about crafting seamless and engaging user experiences.  
+Specializing in **JavaScript**, **React**, and **UI/UX design**, I enjoy building visually appealing and performance-driven applications.  
+Currently, I’m also exploring **cloud technologies** to enhance and scale my projects.
 
-Here are some ideas to get you started:
+> **Note**: This is my *new GitHub account* — my earlier one faced some technical issues, so I’m rebuilding and showcasing my projects here. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Let's Connect
+- ✉️ Email: developerkeshav200@gmail.com  
+
+![Cool animation](https://shorturl.at/rECmH)
