@@ -8,8 +8,14 @@ Currently, I’m also exploring **cloud technologies** to enhance and scale my p
 
 
 ### Let's Connect
-- ✉️ Email: developerkeshav200@gmail.com  
-
-<p align="center">
-  <img src="https://shorturl.at/rECmH" alt="Cool animation" width="200"/>
-</p>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; text-align: left; vertical-align: middle; padding-right: 10px;">
+      <h3>📫 Let's Connect</h3>
+      <p>- ✉️ Email: developerkeshav200@gmail.com</p>
+    </td>
+    <td style="border: none; text-align: right; vertical-align: middle; width: 150px;">
+      <img src="https://shorturl.at/rECmH" alt="Cool animation" width="150"/>
+    </td>
+  </tr>
+</table>
