@@ -7,16 +7,9 @@ Currently, I’m also exploring **cloud technologies** to enhance and scale my p
 > **Note**: This is my *new GitHub account* — my earlier one faced some technical issues, so I’m rebuilding and showcasing my projects here. 🚀
 
 
-### 📫 Let's Connect
-<table>
-<tr>
-<td>
-
+### Let's Connect
 - ✉️ Email: developerkeshav200@gmail.com  
 
-</td>
-<td>
-<img src="https://shorturl.at/rECmH" alt="Cool animation" width="300"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://shorturl.at/rECmH" alt="Cool animation" width="200"/>
+</p>
