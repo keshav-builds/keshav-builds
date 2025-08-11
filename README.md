@@ -8,14 +8,15 @@ Currently, I’m also exploring **cloud technologies** to enhance and scale my p
 
 
 ### Let's Connect
-<table style="border-collapse: collapse; width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="border: none; text-align: left;  padding-right: 10px;">
-      <p>- ✉️ Email: developerkeshav200@gmail.com</p>
+    <td style="border: none; text-align: left; padding-right: 20px; vertical-align: middle;">
+      - ✉️ <a href="mailto:developerkeshav200@gmail.com">developerkeshav200@gmail.com</a>
     </td>
-    <td style="border: none; text-align: right; vertical-align: middle; width: 150px;">
-      <img src="https://shorturl.at/rECmH" alt="Cool animation" width="150"/>
+    <td style="border: none; text-align: right; vertical-align: middle; width: 180px; padding-top: 8px; padding-bottom: 8px;">
+      <img src="https://shorturl.at/rECmH" alt="Cool animation" width="170" style="vertical-align: middle;"/>
     </td>
   </tr>
 </table>
+
 
