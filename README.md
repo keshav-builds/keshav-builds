@@ -10,8 +10,7 @@ Currently, I’m also exploring **cloud technologies** to enhance and scale my p
 ### Let's Connect
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: none; text-align: left; vertical-align: middle; padding-right: 10px;">
-      <h3>📫 Let's Connect</h3>
+    <td style="border: none; text-align: left;  padding-right: 10px;">
       <p>- ✉️ Email: developerkeshav200@gmail.com</p>
     </td>
     <td style="border: none; text-align: right; vertical-align: middle; width: 150px;">
@@ -19,3 +18,4 @@ Currently, I’m also exploring **cloud technologies** to enhance and scale my p
     </td>
   </tr>
 </table>
+
