@@ -9,5 +9,5 @@ Currently, I’m also exploring **cloud technologies** to enhance and scale my p
 
 ### 📫 Let's Connect
 - ✉️ Email: developerkeshav200@gmail.com  
+<img src="https://shorturl.at/rECmH" alt="Cool animation" width="200"/>
 
-![Cool animation](https://shorturl.at/rECmH)
